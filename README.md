@@ -102,7 +102,7 @@
 <p>This project is licensed under the MIT License. See the <a href="LICENSE.txt">LICENSE</a> file for details.</p>
 
 <h2>Acknowledgements</h2>
-<p>Thanks to the Mustafa Hılmı Seker for all helpings.</p>
+<p>Thanks to the Mustafa Hilmi Seker for all helpings.</p>
 
 <h2>Contact</h2>
 <p>For any inquiries or issues, please contact <a href="polatkesen88@gmail.com">your-email@example.com</a>.</p>
