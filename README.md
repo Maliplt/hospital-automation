@@ -105,7 +105,7 @@
 <p>Thanks to the Mustafa Hilmi Seker for all helpings.</p>
 
 <h2>Contact</h2>
-<p>For any inquiries or issues, please contact <a href="polatkesen88@gmail.com">your-email@example.com</a>.</p>
+<p>For any inquiries or issues, please contact <a href="polatkesen88@gmail.com">polatkesen88@gmail.com</a>.</p>
 
 </body>
 </html>
